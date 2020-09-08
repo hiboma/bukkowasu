@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "2test",
+    "owner": "test2",
+    "description": "2test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "testssss",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
